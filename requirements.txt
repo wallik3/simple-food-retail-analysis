@@ -1,0 +1,13 @@
+pandas
+seaborn
+duckdb
+statsmodels
+mlxtend
+scikit-learn
+pmdarima
+lightgbm
+six
+plotly
+nbformat>=4.2.0
+matplotlib_venn
+jinja2
