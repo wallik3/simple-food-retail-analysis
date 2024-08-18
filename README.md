@@ -1,7 +1,7 @@
 # 🍝 Data Analysis of Carbo Loading Store 
 
 ## 1. Overview
-This repository contains a notebook that serves as an introduction to data analysis for a food retail store specializing in products like pasta, pasta sauce, pancake mixes, and syrup. However, the store’s story extends beyond these offerings. Through this jupyter notebook, we aim to delve deeper into the data and extract valuable insights. We can check our analysis via jupyter notebooks
+This repository contains a notebook that serves as an introduction to data analysis for a food retail store specializing in products like pasta, pasta sauce, pancake mixes, and syrup. However, the store’s story extends beyond these offerings. Through this jupyter notebook, we aim to delve deeper into the data and extract valuable insights. You can visit our analysis via jupyter notebooks
 
 ## 2. About Data
 - To effectively analyze the food retail store data, it is crucial to understand the dataset thoroughly. The dataset includes household-level transactions spanning two years, covering four categories: Pasta, Pasta Sauce, Syrup, and Pancake Mix.
